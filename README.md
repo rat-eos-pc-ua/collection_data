@@ -1,4 +1,4 @@
-# collection_data
+# Collection Data
 
 
 This repository contains an script that listens to data we are receiving in our platform.
