@@ -1,0 +1,12 @@
+version: '3'
+services:
+  consumer:
+    build: .
+    volumes:
+      - .:/app
+    networks:
+      - kafka-network
+
+networks:
+  kafka-network:
+    driver: bridge
