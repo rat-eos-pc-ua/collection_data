@@ -20,7 +20,10 @@ git clone git@github.com:rat-eos-pc-ua/collection_data.git
 cd collection_data
 ```
 
-
+### Install Docker
+```bash
+sudo apt  install docker-compose
+```
 ### Step 2:  Build and Run the Docker Container
 
 #### For Linux:
